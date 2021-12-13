@@ -1,0 +1,3 @@
+Naber PythonNaber Java
+naber 2. satır
+naber 3. satır
